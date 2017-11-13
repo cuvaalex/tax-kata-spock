@@ -1,4 +1,4 @@
-# tax-kata-java
+# tax-kata-spock
 Resolution of the Tax-kata with Java 8 and Spock
 
 This kata was first done during one of our GenevaJUG Dojo
